@@ -1,10 +1,8 @@
-<!-- Profile Header -->
+<h1 align="center">👋 Привет, я <a href="https://github.com/mangust5580">mangust5580</a></h1>
 
 <p align="center">
   <img src="https://github.com/mangust5580/mangust5580/blob/main/assets/header.png" alt="Header"/>
 </p>
-
-<h1 align="center">👋 Привет, я <a href="https://github.com/mangust5580">mangust5580</a></h1>
 
 <p align="center">
   <b>🧑‍💻 Frontend Developer · UI Enthusiast</b>
