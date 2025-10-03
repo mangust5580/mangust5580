@@ -1,8 +1,8 @@
-<h1 align="center">👋 Привет, я <a href="https://github.com/mangust5580">mangust5580</a></h1>
-
 <p align="center">
   <img src="https://github.com/mangust5580/mangust5580/blob/main/assets/header.png" alt="Header"/>
 </p>
+
+<h1 align="center">👋 Привет, я <a href="https://github.com/mangust5580">mangust5580</a></h1>
 
 <p align="center">
   <b>🧑‍💻 Frontend Developer · UI Enthusiast</b>
@@ -11,6 +11,7 @@
 ---
 
 ## 🛠️ Технологии и инструменты
+
 
 ### 💻 Frontend
 
@@ -47,10 +48,10 @@
 
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-1c1d21?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-1c1d21?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF" />
-  <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-1c1d21?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00" />
-  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe_XD-1c1d21?style=for-the-badge&logo=adobe-xd&logoColor=FF61F6" />
-  <img alt="InDesign" src="https://img.shields.io/badge/InDesign-1c1d21?style=for-the-badge&logo=adobe-indesign&logoColor=AE0F44" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-1c1d21?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
+  <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-1c1d21?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
+  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe_XD-1c1d21?style=for-the-badge&logo=adobexd&logoColor=FF61F6" />
+  <img alt="InDesign" src="https://img.shields.io/badge/InDesign-1c1d21?style=for-the-badge&logo=adobeindesign&logoColor=AE0F44" />
 </p>
 
 ### 📦 CMS и прочее
