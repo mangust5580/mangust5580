@@ -1,5 +1,3 @@
-<!-- Profile Header -->
-
 <p align="center">
   <img src="https://github.com/mangust5580/mangust5580/blob/main/assets/header.png" alt="Header"/>
 </p>
@@ -14,7 +12,6 @@
 
 ## 🛠️ Технологии и инструменты
 
-> Единый стиль бейджей, иконки ко всем инструментам, аккуратная группировка по категориям.
 
 ### 💻 Frontend
 
@@ -51,10 +48,10 @@
 
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-1c1d21?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-1c1d21?style=for-the-badge&logo=adobe&logoColor=FF0000&v=4" />
-  <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-1c1d21?style=for-the-badge&logo=adobe&logoColor=FF0000&v=4" />
-  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe_XD-1c1d21?style=for-the-badge&logo=adobe&logoColor=FF0000&v=4" />
-  <img alt="InDesign" src="https://img.shields.io/badge/InDesign-1c1d21?style=for-the-badge&logo=adobe&logoColor=FF0000&v=4" />
+  <img alt="Photoshop" src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="28" />
+  <img alt="Illustrator" src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="28" />
+  <img alt="Adobe XD" src="https://cdn.simpleicons.org/adobexd/FF61F6" height="28" />
+  <img alt="InDesign" src="https://cdn.simpleicons.org/adobeindesign/AE0F44" height="28" />
 </p>
 
 ### 📦 CMS и прочее
@@ -89,9 +86,3 @@
 </p>
 
 ---
-
-### 🔧 Примечания
-
-* Все бейджи выровнены по стилю `for-the-badge` и имеют тёмный фон `#1c1d21`.
-* Для инструментов без официальной иконки в Simple Icons (например, Dust.js, MJML) использованы ближайшие по смыслу логотипы.
-* Готово к вставке в ваш `README.md`.
