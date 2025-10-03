@@ -51,10 +51,10 @@
 
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-1c1d21?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-1c1d21?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF&v=2" />
-  <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-1c1d21?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00&v=2" />
-  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe_XD-1c1d21?style=for-the-badge&logo=adobexd&logoColor=FF61F6&v=2" />
-  <img alt="InDesign" src="https://img.shields.io/badge/InDesign-1c1d21?style=for-the-badge&logo=adobeindesign&logoColor=AE0F44&v=2" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-1c1d21?style=for-the-badge&logo=adobe&logoColor=FF0000&v=4" />
+  <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-1c1d21?style=for-the-badge&logo=adobe&logoColor=FF0000&v=4" />
+  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe_XD-1c1d21?style=for-the-badge&logo=adobe&logoColor=FF0000&v=4" />
+  <img alt="InDesign" src="https://img.shields.io/badge/InDesign-1c1d21?style=for-the-badge&logo=adobe&logoColor=FF0000&v=4" />
 </p>
 
 ### 📦 CMS и прочее
