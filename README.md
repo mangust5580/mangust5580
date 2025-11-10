@@ -1,9 +1,13 @@
-<img src="https://github.com/mangust5580/mangust5580/blob/main/assets/header.png" alt="Header"/>
+<p align="center">
+  <img src="https://github.com/mangust5580/mangust5580/blob/main/assets/header.png" alt="Header"/>
+</p>
 
-# 👋 Привет, я [mangust5580](https://github.com/mangust5580)
+<h1 align="center">👋 Привет, я <a href="https://github.com/mangust5580">mangust5580</a></h1>
 
-**🧑‍💻 Frontend Developer · UI Enthusiast**  
-Создаю интерфейсы с вниманием к деталям, анимации и чистому коду.
+<p align="center">
+  <b>🧑‍💻 Frontend Developer · UI Enthusiast</b><br>
+  Создаю интерфейсы с вниманием к деталям, анимации и чистому коду.
+</p>
 
 ---
 
@@ -38,4 +42,4 @@
 
 ---
 
-_🖤 Эстетика, чистота и скорость — три кита хорошего фронтенда._
+<p align="center"><i>🖤 Эстетика, чистота и скорость — три кита хорошего фронтенда.</i></p>
