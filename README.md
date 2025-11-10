@@ -1,6 +1,6 @@
 <!-- ✨ HEADER -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text=%3C%2FAlexey%20Muratov%2F%3E&width=800&height=100&fontSize=36&color1=ff4d4d&color2=6a11cb&animation=none" alt="<Alexey Muratov/>" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=FF4D4D&center=true&vCenter=true&width=500&lines=%3CAlexey+Muratov%2F%3E" alt="<Alexey Muratov/>"/>
 </p>
 
 <h2 align="center" style="font-family: 'Fira Code', monospace; color: #ff4d4d;">
