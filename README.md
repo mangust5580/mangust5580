@@ -1,12 +1,11 @@
+<!-- HEADER -->
 <p align="center">
-  <img src="https://github.com/mangust5580/mangust5580/blob/main/assets/header.png" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header&text=Alexey%20Muratov&fontColor=ffffff&fontSize=36&animation=fadeIn" alt="Header"/>
 </p>
 
-<h1 align="center">👋 Привет, я <a href="https://github.com/mangust5580">mangust5580</a></h1>
-
-<p align="center">
-  <b>🧑‍💻 Frontend Developer · UI Enthusiast</b>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=F24E1E&center=true&vCenter=true&width=500&lines=👋+Привет,+я+mangust5580;Frontend+Developer+·+UI+Enthusiast" alt="Typing SVG" />
+</h1>
 
 ---
 
@@ -21,7 +20,7 @@
 ### ⚙️ Инструменты сборки и автоматизации
 <img src="https://img.shields.io/badge/Gulp-1c1d21?style=for-the-badge&logo=gulp&logoColor=CF4647"/> <img src="https://img.shields.io/badge/Grunt-1c1d21?style=for-the-badge&logo=grunt&logoColor=FBA919"/> <img src="https://img.shields.io/badge/Webpack-1c1d21?style=for-the-badge&logo=webpack&logoColor=8DD6F9"/> <img src="https://img.shields.io/badge/Rollup-1c1d21?style=for-the-badge&logo=rollupdotjs&logoColor=EC4A3F"/> <img src="https://img.shields.io/badge/Parcel-1c1d21?style=for-the-badge&logo=parcel&logoColor=F8C400"/> <img src="https://img.shields.io/badge/Esbuild-1c1d21?style=for-the-badge&logo=esbuild&logoColor=FFCF00"/> <img src="https://img.shields.io/badge/NPM_Scripts-1c1d21?style=for-the-badge&logo=npm&logoColor=CB3837"/> <img src="https://img.shields.io/badge/Yarn-1c1d21?style=for-the-badge&logo=yarn&logoColor=2C8EBB"/> <img src="https://img.shields.io/badge/Browsersync-1c1d21?style=for-the-badge&logo=googlechrome&logoColor=F4B400"/>
 
-### 🎨 Дизайн и прототипирование
+### 🖌 Дизайн и прототипирование
 <img src="https://img.shields.io/badge/Figma-1c1d21?style=for-the-badge&logo=figma&logoColor=F24E1E"/> <img src="https://img.shields.io/badge/Photoshop-1c1d21?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/> <img src="https://img.shields.io/badge/Illustrator-1c1d21?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00"/> <img src="https://img.shields.io/badge/Adobe_XD-1c1d21?style=for-the-badge&logo=adobexd&logoColor=FF61F6"/> <img src="https://img.shields.io/badge/InDesign-1c1d21?style=for-the-badge&logo=adobeindesign&logoColor=AE0F44"/> <img src="https://img.shields.io/badge/Canva-1c1d21?style=for-the-badge&logo=canva&logoColor=00C4CC"/> <img src="https://img.shields.io/badge/Framer-1c1d21?style=for-the-badge&logo=framer&logoColor=0055FF"/> <img src="https://img.shields.io/badge/Miro-1c1d21?style=for-the-badge&logo=miro&logoColor=FFD02F"/>
 
 ### 🧱 CMS, шаблонные движки и прочее
@@ -41,4 +40,10 @@
 
 ---
 
-<p align="center"><i>🖤 Эстетика, чистота и скорость — три кита хорошего фронтенда.</i></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=9F9F9F&center=true&vCenter=true&width=700&lines=🖤+Эстетика,+чистота+и+скорость+—+три+кита+хорошего+фронтенда." alt="Footer Quote" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-coding%20now...-1c1d21?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
