@@ -1,6 +1,6 @@
 <!-- ✨ HEADER -->
-<p align="center" style="background:#1c1d21;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF4D4D&center=true&vCenter=true&width=500&lines=%3CAlexey+Muratov%2F%3E" alt="<Alexey Muratov/>" />
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text=%3C%2FAlexey%20Muratov%2F%3E&width=800&height=100&fontSize=36&color1=ff4d4d&color2=6a11cb&animation=none" alt="<Alexey Muratov/>" />
 </p>
 
 <h2 align="center" style="font-family: 'Fira Code', monospace; color: #ff4d4d;">
@@ -8,7 +8,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1500&color=9F9F9F&center=true&vCenter=true&width=550&lines=Clean+code+.+Smooth+animation+.+Sharp+UI" alt="Tagline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1500&color=9F9F9F&center=true&vCenter=true&width=550&lines=Clean+code+·+Smooth+animation+·+Sharp+UI" alt="Tagline" />
 </p>
 
 ---
