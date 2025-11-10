@@ -1,6 +1,6 @@
 <!-- ✨ HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=FF4D4D&center=true&vCenter=true&width=500&lines=%3CAlexey+Muratov%2F%3E" alt="<Alexey Muratov/>"/>
+  <img src="./assets/header.gif" alt="<Alexey Muratov />" />
 </p>
 
 <h2 align="center" style="font-family: 'Fira Code', monospace; color: #ff4d4d;">
