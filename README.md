@@ -1,11 +1,11 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3a0ca3,100:ff4d4d&text=Alexey%20Muratov&fontColor=ffffff&fontSize=36&animation=fadeIn" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:3a0ca3,100:ff4d4d&text=%3CAlexey%20Muratov%20%2F%3E&fontColor=ffffff&fontSize=32&fontAlign=50&fontAlignY=40&fontFamily=Fira+Code&animation=fadeIn" alt="Header"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1200&color=FF4D4D&center=true&vCenter=true&width=600&lines=👋+Привет,+я+mangust5580;Frontend+Developer+·+UI+Enthusiast" alt="Typing SVG" />
-</h1>
+<h2 align="center" style="font-family: 'Fira Code', monospace; color: #ff4d4d;">
+  Frontend Developer · UI Enthusiast
+</h2>
 
 ---
 
