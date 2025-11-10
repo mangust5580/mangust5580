@@ -7,6 +7,7 @@
   Frontend Developer · UI Enthusiast
 </h2>
 
+
 ---
 
 ## 🛠️ Технологии и инструменты
