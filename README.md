@@ -1,12 +1,11 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:3a0ca3,100:ff4d4d&text=%3CAlexey%20Muratov%20%2F%3E&fontColor=ffffff&fontSize=32&fontAlign=50&fontAlignY=40&fontFamily=Fira+Code&animation=fadeIn" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:3a0ca3,100:ff4d4d&text=%3CAlexey%20Muratov%2F%3E&fontColor=ffffff&fontSize=32&fontAlign=50&fontAlignY=40&fontFamily=Fira+Code&animation=fadeIn" alt="<Alexey Muratov/>"/>
 </p>
 
 <h2 align="center" style="font-family: 'Fira Code', monospace; color: #ff4d4d;">
   Frontend Developer · UI Enthusiast
 </h2>
-
 
 ---
 
