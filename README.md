@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header&text=Alexey%20Muratov&fontColor=ffffff&fontSize=36&animation=fadeIn" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3a0ca3,100:ff4d4d&text=Alexey%20Muratov&fontColor=ffffff&fontSize=36&animation=fadeIn" alt="Header"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=F24E1E&center=true&vCenter=true&width=500&lines=👋+Привет,+я+mangust5580;Frontend+Developer+·+UI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1200&color=FF4D4D&center=true&vCenter=true&width=600&lines=👋+Привет,+я+mangust5580;Frontend+Developer+·+UI+Enthusiast" alt="Typing SVG" />
 </h1>
 
 ---
